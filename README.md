@@ -1,9 +1,6 @@
 # Nuclear-Dataset-Cleaning-Project
-Excel files with original nuclear dataset, cleaned nuclear dataset, and a pivot table from the cleaned dataset.
+*Excel files with original nuclear dataset, cleaned nuclear dataset, and a pivot table from the cleaned dataset.*
 
-Credit for original dataset below.
-Utkarsh Singh.  "Nuclear Explosions Data" (2023 - Version 3). Kaggle. Retrieved August 2023.
-https://www.kaggle.com/datasets/utkarshx27/nuclear-explosions-data
 
 This project was predominantly an exercise in cleaning and exploring a dataset on the nuclear detonation records of seven countries from 1945 to 1996.
 
@@ -29,3 +26,8 @@ Once these categories were established, I downloaded from Google Sheets and then
 
 Tableau helped clearly show that the type of detonation did change with time.  Detonations above and at the surface experienced a sharp decline in the 1960s.  They had stopped entirely by 1980.
 Detonations below the surface spiked in the 1960s, and continued into the early 1990s, with a few final detonations in the mid to late 1990s.
+
+
+**Credit for original dataset below.
+Utkarsh Singh.  "Nuclear Explosions Data" (2023 - Version 3). Kaggle. Retrieved August 2023.
+https://www.kaggle.com/datasets/utkarshx27/nuclear-explosions-data**
